@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CubeChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"D:\\KNU\\CROSS\\Tauyrskii_Lab1\\CubeChecker\\CubeChecker\\bin\\Debug\\net6.0\"\r\n-o \"D:\\KNU\\CROSS\\Tauyrskii_Lab1\\CubeChecker\\CubeChecker\\bin\\Debug\\net6.0\""
+    }
+  }
+}
